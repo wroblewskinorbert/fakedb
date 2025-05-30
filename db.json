@@ -5,7 +5,21 @@
       "title": "hello"
     }
   ],
+  "events":[
+    {
+      "id": 1,
+      "name": "Pierwsze wydarzenie"
+    },
+    {
+      "id": 2,
+      "name": "Drugie wydarzenie"
+    },
+    {
+      "id": 3,
+      "name": "Trzecie wydarzenie"
+    },
+  ]
   "profile": {
-    "name": "typicode"
+    "name": "Norbert"
   }
 }
